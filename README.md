@@ -1,0 +1,1 @@
+record memory profiler to json
